@@ -1,0 +1,12 @@
+{
+  "name": "Estudante",
+  "level": 3,
+  "xp": 50,
+  "xp_to_next": 300,
+  "streak": 3,
+  "last_activity": "2025-06-23",
+  "completed_phases": [
+    1,
+    2
+  ]
+}
