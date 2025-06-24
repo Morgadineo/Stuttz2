@@ -198,5 +198,3 @@ Desenvolvido com ❤️ para ajudar pessoas a aprenderem diversas disciplinas de
 ---
 
 *Este grimório digital está em constante evolução, com novos feitiços (features) sendo adicionados pelos mestres arcanos (desenvolvedores) a cada lua nova.* 
-#   - S t u t t z 2 . 0  
- 
