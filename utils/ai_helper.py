@@ -57,3 +57,4 @@ def get_gemini_response(prompt: str, max_tokens: int = 1000) -> str:
         print(f"❌ Erro ao gerar resposta: {e}")
         # Retorna uma mensagem de erro amigável incluindo detalhes do erro
         return f"Desculpe, não consegui gerar uma resposta. Erro: {str(e)}"
+
